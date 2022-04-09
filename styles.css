@@ -1,0 +1,12 @@
+#container{
+    display: flex;
+}
+.tiles{
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+}
+
+.tiles:hover{
+    background-color: black;
+}
